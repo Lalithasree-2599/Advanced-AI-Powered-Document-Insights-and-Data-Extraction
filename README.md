@@ -108,5 +108,3 @@ Enhancements include:
 
 ---
 
-## 📁 Repository Structure
-
